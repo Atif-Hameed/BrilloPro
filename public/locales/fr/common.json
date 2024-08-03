@@ -1,5 +1,5 @@
 {
-  "welcome": "Bienvenue sur notre page FAQ!",
+  "welcome": "Obtenez chaque réponse là-bas si vous le souhaitez",
   "home": "Accueil",
   "about": "À propos",
   "Call for help:": "Appel pour de l'aide:",
@@ -243,6 +243,9 @@
   "Contact": "Contact",
   "108-2525 Rue de l'Acajou, Montreal, Qc, H4R 2W9": "108-2525 Rue de l'Acajou, Montréal, Qc, H4R 2W9",
   "Copyright © 2024 ZySoftec. All rights reserved": "Droits d'auteur © 2024 ZySoftec. Tous droits réservés",
-  "Privacy policy": "Politique de confidentialité"
+  "Privacy policy": "Politique de confidentialité",
+
+
+   "Service Details":"Détails des services"
 
 }
