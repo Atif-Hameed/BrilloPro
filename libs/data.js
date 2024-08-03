@@ -65,17 +65,17 @@ export const faqGeneral = [
 export const faqWindow = [
     {
         id: 6,
-        question: 'How often should I have my windows cleaned? ',
-        answer: 'We recommend having your windows cleaned at least twice a year to maintain their appearance and functionality. However, the frequency can vary depending on your location and environmental factors '
+        question: 'How often should I have my windows cleaned?',
+        answer: 'We recommend having your windows cleaned at least twice a year to maintain their appearance and functionality. However, the frequency can vary depending on your location and environmental factors'
     },
     {
         id: 7,
-        question: 'What is included in your residential window cleaning service? ',
-        answer: 'Our residential window cleaning service includes cleaning the interior and exterior windows, window frames, sills, and screens. We ensure your windows are spotless and streak-free. '
+        question: 'What is included in your residential window cleaning service?',
+        answer: 'Our residential window cleaning service includes cleaning the interior and exterior windows, window frames, sills, and screens. We ensure your windows are spotless and streak-free.'
     },
     {
         id: 8,
-        question: 'Do I need to be home during the cleaning service? ',
+        question: 'Do I need to be home during the cleaning service?',
         answer: 'Its not necessary for you to be home during the service, but we do recommend it for the first visit. If you cant be present, please provide us with access instructions in advance.'
     },
 ];
@@ -84,13 +84,13 @@ export const faqWindow = [
 export const faqComercial = [
     {
         id: 9,
-        question: 'Can you handle high-rise buildings? ',
+        question: 'Can you handle high-rise buildings?',
         answer: 'Yes, we have the equipment and expertise to clean windows on high-rise buildings safely and efficiently. '
     },
     {
         id: 10,
-        question: 'Do you offer customized maintenance plans for businesses? ',
-        answer: 'Yes, we offer customized maintenance plans tailored to meet the specific needs of your business. Contact us to discuss your requirements. '
+        question: 'Do you offer customized maintenance plans for businesses?',
+        answer: 'Yes, we offer customized maintenance plans tailored to meet the specific needs of your business. Contact us to discuss your requirements.'
     },
 ];
 
@@ -98,12 +98,12 @@ export const faqComercial = [
 export const faqGutter = [
     {
         id: 11,
-        question: 'Why is gutter cleaning important? ',
+        question: 'Why is gutter cleaning important?',
         answer: 'Regular gutter cleaning prevents clogs that can lead to water damage, roof leaks, and foundation problems. It helps maintain the integrity of your property.'
     },
     {
         id: 12,
-        question: 'How often should gutters be cleaned? ',
+        question: 'How often should gutters be cleaned?',
         answer: 'We recommend cleaning your gutters at least twice a year, in the spring and fall. More frequent cleaning may be needed if you have many trees near your property.'
     },
 ];
@@ -139,17 +139,17 @@ export const faqSubscription = [
 export const faqOther = [
     {
         id: 17,
-        question: 'How can I pay for my services? ',
+        question: 'How can I pay for my services?',
         answer: 'We accept various payment methods including credit cards, debit cards, and electronic transfers. Payment details will be provided with your invoice.'
     },
     {
         id: 18,
-        question: 'What if I am not satisfied with the service? ',
-        answer: 'Customer satisfaction is our top priority. If you&apos;re not satisfied with our service, please contact us immediately. We will address your concerns and make it right.'
+        question: 'What if I am not satisfied with the service?',
+        answer: 'Customer satisfaction is our top priority. If you are not satisfied with our service, please contact us immediately. We will address your concerns and make it right.'
     },
     {
         id: 19,
-        question: 'Do you offer any discounts or promotions? ',
+        question: 'Do you offer any discounts or promotions?',
         answer: 'Yes, we offer various discounts and promotions throughout the year. Follow us on social media or sign up for our newsletter to stay updated on our latest offers.'
     },
     {
