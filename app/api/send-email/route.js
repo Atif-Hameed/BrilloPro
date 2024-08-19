@@ -46,7 +46,7 @@ export async function POST(req) {
             secure: true,
             auth: {
                 user: 'atifhameed2002@gmail.com', // Your Gmail email address
-                pass: 'rusl ekbv lhrq hjmm', // Your Gmail password or an app-specific password if 2-factor authentication is enabled
+                pass: 'hewm gdiv molg vfvx', // Your Gmail password or an app-specific password if 2-factor authentication is enabled
             },
         });
 
