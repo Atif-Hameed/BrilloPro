@@ -16,7 +16,7 @@ const Welcom = () => {
 
   return (
     <div className="flex justify-center md:mt-60  z-40 relative">
-      <div className="absolute right-0 2xl:-top-[75%] -top-[60%]">
+      <div className="absolute right-0 2xl:-top-[75%] z-10 -top-[60%]">
         <Image alt="" src={shade} />
       </div>
 
@@ -30,10 +30,10 @@ const Welcom = () => {
           <Image
             alt=""
             src={cardImg}
-            className="absolute -bottom-28 h-72 w-72 -right-8 "
+            className="absolute  -bottom-28 h-72 w-72 -right-8 "
           />
         </div>
-        <div className="lg:w-1/2 w-full ">
+        <div className="lg:w-1/2 w-full z-50 relative">
           <button className="flex items-center text-white rounded-full gap-1 px-3 whitespace-nowrap text-sm w-[180px] py-2 bg-darkSkyBlue">
             <Image alt="" className="h-4" src={beat} />
             {t('Who We Are')}
